@@ -1,0 +1,24 @@
+[
+  {
+    "state": "formation",
+    "formation": "line",
+    "position": {"x": 0, "z": 0},
+    "duration": 10
+  },
+  {
+    "state": "advance",
+    "target": {"x": -50, "z": -50},
+    "formation": "wedge",
+    "trigger": {"arrests": 5}
+  },
+  {
+    "state": "encircle",
+    "target": "protestor_cluster",
+    "radius": 40,
+    "duration": 20
+  },
+  {
+    "state": "arrest",
+    "mode": "aggressive"
+  }
+] 
