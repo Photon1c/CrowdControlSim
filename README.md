@@ -2,6 +2,10 @@
 
 ## Simulate deploying officers to conduct mass arrests of protestors!
 
+### Update
+
+This app is not live [here](https://crowdcontrolsim.netlify.app/)
+
 Three.js simulator of crowd and police dynamics, used for educational and experimental purposes. 
 
 A dynamic, interactive simulation of riot crowd control! Watch as protestors, police officers, and vans interact in real time, demonstrating crowd dynamics, arrest logic, and vehicle extraction—all in your browser.
