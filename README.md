@@ -1,4 +1,4 @@
-# Crowd Control Simulator
+# Crowd Control Simulator Version 1
 
 ## Simulate deploying officers to conduct mass arrests of protestors!
 
